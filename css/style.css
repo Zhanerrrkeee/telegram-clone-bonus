@@ -40,8 +40,6 @@ main {
     display: flex;
     width: 100%;
 }
-
-/*Start Aside Section*/
 .right-side {
     position: relative;
     max-width: 42rem;
@@ -346,8 +344,6 @@ main {
     color: var(--grayColor);
 }
 
-/*End Aside Section*/
-/*Start Content Section*/
 .content {
     position: relative;
     width: 100%;
@@ -535,5 +531,3 @@ main {
     justify-content: center;
     cursor: pointer;
 }
-
-/*End Content Section*/

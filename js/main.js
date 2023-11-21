@@ -10,6 +10,8 @@ inputSearch.addEventListener('focus', () => {
     files.classList.add('active');
 });
 
+
+
 faArrowLeft.addEventListener('click', () => {
     header.classList.remove('focus');
     files.classList.remove('active');
